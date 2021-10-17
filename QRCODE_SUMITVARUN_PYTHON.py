@@ -5,7 +5,7 @@ import png
 from pyqrcode import QRCode
 
 
-# String which represents the QR code
+# Taking input from the human. which represents the QR code
 s = input("PASTE HERE YOUR WORDS  : "+"")
 
 # Generate QR code
